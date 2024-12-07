@@ -1,0 +1,6 @@
+NullPointer|X|
+Anon|O|
+1|
+ | | |
+ |X| |
+ | | |
