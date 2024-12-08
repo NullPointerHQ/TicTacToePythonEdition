@@ -5,17 +5,17 @@
 
 ⚖  _GIF Credits: [Giphy Link](https://giphy.com/gifs/WarChildNorthAmerica-tic-tictactoe-tac-toe-gR92EF4p9XyEHyD2n5)_
 # 🔖Table of Contents
-1. [Introduction]
-    - [Objectives]
-    - [Prerequisites]
-    - [Repository Guide]
-2. [Guide & Features]
-    - [Overview]
-    - [Configuration]
-    - [Usage]
-3. [Known Issues and Future Plans]
-    - [Known Issues]
-    - [Future Plans]
+1. [Introduction](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#introduction)
+    - [Objectives](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#objectives)
+    - [Prerequisites](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#prerequisites)
+    - [Repository Guide](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#repository-guide)
+2. [Guide & Features](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#-guide--features)
+    - [Overview](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#overview)
+    - [Configuration](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#configuration)
+    - [Usage](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#usage)
+3. [Known Issues and Future Plans](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#known-issues-and-future-plans)
+    - [Known Issues](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#known-issues)
+    - [Future Plans](https://github.com/NullPointerHQ/TicTacToePythonEdition/blob/main/README.md#future-plans)
 ## 👋Introduction
 ### Objectives
 This project has the following objectives:
